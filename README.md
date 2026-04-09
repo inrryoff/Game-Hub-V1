@@ -1,4 +1,8 @@
-# 🎮 GameHub G24 Edition (Root)
+# 🎮 GameHub-PRO-X G24
+
+[![Magisk](https://img.shields.io/badge/Magisk-27.0+-green.svg)](https://github.com/topjohnwu/Magisk)
+[![Android](https://img.shields.io/badge/Android-12+-blue.svg)](https://www.android.com)
+[![Device](https://img.shields.io/badge/Device-Moto_G24-orange.svg)](https://motorola.com)
 
 O **GameHub** é um ecossistema de otimização de baixo nível desenvolvido especificamente para extrair o máximo de performance da linha Moto G24.
 
