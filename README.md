@@ -12,7 +12,7 @@ O **GameHub** é um ecossistema de otimização de baixo nível desenvolvido esp
 
 Este módulo **NÃO** é genérico. Ele foi projetado sob medida:
 *   **📱 Dispositivo Alvo:** Exclusivo para **Moto G24**.
-*   **⚡ Compatibilidade:** Não testado porem em tese deve ra ser compativel não recomendado o uso deste modulo para **Moto G24 Power** e qualquer outro dispositivo.
+*   **⚡ Compatibilidade:** Não testado porem em tese deve ra ser compativel não recomendado o uso deste modulo para **Moto G24/Power** e qualquer outro dispositivo.
 *   **🛠️ Ambiente:** Desenvolvido e testado em **GSI: CrDroid**.
 
 ---
@@ -38,7 +38,7 @@ O GameHub aciona o motor `ram.sh` do ZramTG24 para garantir que a swap esteja li
 
 ## 🛠️ Como Utilizar
 
-O módulo já configura o binário no sistema via `service.sh`.
+O módulo já configura o binário no sistema via `customize.sh`.
 1. Abra o **[Termux](https://github.com/termux/termux-app)**.
 2. Digite `play` ou`su -c /data/adb/modules/GameHub-PRO-X/system/bin/booster.sh`
 3. Siga o menu para adicionar jogos, configurar a whitelist ou iniciar a jogatina.
@@ -47,6 +47,7 @@ O módulo já configura o binário no sistema via `service.sh`.
 
 ## 👤 Créditos e Licença*
 * **Desenvolvedor**: [@inrryoff](https://github.com/inrryoff)
+* **termux:** Utilizado no modulo decidi implementar o `apk` do termux no modulo todos direitos reservaods a equipe de desemvolvimento do termux.
 * **Licença:** MIT (Pode usar e modificar, desde que mantenha os créditos ao autor original).
 * **Projeto**: GameHub PRO-X
 
