@@ -21,6 +21,9 @@ Este módulo **NÃO** é genérico. Ele foi projetado sob medida:
 > - **Bateria**: O consumo será maior devido à prioridade máxima da CPU
 > - **Estabilidade**: Pode causar lentidão no sistema fora do jogo
 
+## 🎨 Interface Visual
+> O GameHub-PRO-X agora utiliza o [RGB-Banner](https://github.com/inrryoff/neon-cat) para exibições de banners animados em tempo real, garantindo uma interface fluida sem travamentos no terminal.
+
 ## 📱 Dispositivos compatíveis
 
 | Dispositivo | Codinome | Modelo | SoC | compatibilidade |
